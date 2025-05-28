@@ -35,7 +35,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/https:/james-sanders.com/assets/pdf/your-cv-filename.pdf";
+            window.location.href = "/https:/james-sanders.com/assets/pdf/sanders_resume.pdf";
           },
         },{id: "nav-repositories",
           title: "repositories",
