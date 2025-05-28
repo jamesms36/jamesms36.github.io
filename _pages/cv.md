@@ -1,11 +1,13 @@
----
-layout: cv
+yaml---
+layout: page
 permalink: /cv/
-title: cv
+title: CV
 nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+nav_order: 4
 ---
+
+<script>
+window.location.href = "/assets/pdf/your-cv-filename.pdf";
+</script>
+
+<p>If you are not redirected automatically, <a href="/assets/pdf/your-cv-filename.pdf">click here to view my CV</a>.</p>
