@@ -26,7 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hi, I'm James Sanders. 
+Hi, I'm James Sanders! 
 I majored in math with lots of philosophy and economics at Rice University. I'm interested in studying possible trajectories in AI development and what they imply for governance. 
 
 Lately, I've been working for [Epoch AI](https://epoch.ai/) and studying [AI Supercomputers](https://epoch.ai/blog/trends-in-ai-supercomputers) (ie, datacenters or GPU clusters). 
