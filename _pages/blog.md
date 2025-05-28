@@ -1,3 +1,5 @@
+
+<!--
 ---
 layout: default
 permalink: /blog/
@@ -188,7 +190,7 @@ pagination:
     {% endfor %}
 
   </ul>
-
+-->
 {% if page.pagination.enabled %}
 {% include pagination.liquid %}
 {% endif %}
