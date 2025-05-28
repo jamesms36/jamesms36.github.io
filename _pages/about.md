@@ -28,8 +28,11 @@ latest_posts:
 ---
 Hi, I'm James Sanders. 
 I majored in math with lots of philosophy and economics at Rice University. I'm interested in studying possible trajectories in AI development and what they imply for governance. 
+
 Lately, I've been working for Epoch AI and studying AI Supercomputers (ie datacenters or GPU clusters). If you're interested in any of these things as well, I'd be very happy to chat.
 The best way to reach me is at james.martin.sanders@gmail.com
 
+
 Feel free to put a time on my [Calendly](https://calendly.com/jamesms) or follow me on [Twitter](https://x.com/james_s48).
+
 You can also leave me anonymous feedback [here](https://forms.gle/QV1MNQRXUizUrDyu8). 
