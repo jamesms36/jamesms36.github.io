@@ -1,3 +1,9 @@
+---
+title: blog
+permalink: https://theforwardpass.substack.com/
+nav: true
+nav_order: 2
+---
 
 <!--
 ---
