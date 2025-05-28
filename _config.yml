@@ -58,23 +58,6 @@ max_width: 930px
 
 # TODO: add layout settings (single page vs. multi-page)
 
-# -----------------------------------------------------------------------------
-# Navigation
-# -----------------------------------------------------------------------------
-
-# Navigation menu
-navbar_links:
-  - title: About
-    url: /
-  - title: CV
-    url: /assets/pdf/sanders_resume.pdf  # Direct link to your PDF
-  - title: Publications
-    url: /publications/
-  - title: Projects
-    url: /projects/
-  - title: Blog
-    url: /blog/
-
 
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
