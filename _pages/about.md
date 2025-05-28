@@ -26,9 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hi, I'm James Sanders. 
+I majored in math with lots of philosophy and economics at Rice University. I'm interested in studying possible trajectories in AI development and what they imply for governance. Lately, I've been working for Epoch AI and studying AI Supercomputers (ie datacenters or GPU clusters). If you're interested in any of these things as well, I'd be very happy to chat.
+The best way to reach me is at james.martin.sanders@gmail.com
+Feel free to put a time on my [Calendly](https://calendly.com/jamesms) or follow me on [Twitter](https://x.com/james_s48).
+You can also leave me anonymous feedback [here](https://forms.gle/QV1MNQRXUizUrDyu8). 
