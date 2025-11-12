@@ -27,9 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 Hi, I'm James Sanders! 
-I majored in math with lots of philosophy and economics at Rice University. I'm interested in studying possible trajectories in AI development and what they imply for governance. 
 
-Lately, I've been working for [Epoch AI](https://epoch.ai/) and studying [AI Supercomputers](https://epoch.ai/blog/trends-in-ai-supercomputers) (ie, datacenters or GPU clusters). 
+I research AI governance at [CNAS](https://www.cnas.org/research/technology-and-national-security), with a focus on compute governance.
+
+Previously, I worked for [Epoch AI](https://epoch.ai/) studying [AI Supercomputers](https://epoch.ai/blog/trends-in-ai-supercomputers) (ie, datacenters or GPU clusters), and was a quant trader. Before that, I majored in math with lots of philosophy and economics at Rice University.
 
 If you're interested in any of these things as well, or just think we'd have a good conversation, I'd be very happy to chat.
 The best way to reach me is at [james.martin.sanders@gmail.com](mailto:james.martin.sanders@gmail.com)
