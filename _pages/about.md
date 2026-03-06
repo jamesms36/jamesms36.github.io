@@ -36,6 +36,6 @@ If you're interested in any of these things as well, or just think we'd have a g
 The best way to reach me is at [james.martin.sanders@gmail.com](mailto:james.martin.sanders@gmail.com)
 
 
-Feel free to put a time on my [calendar](https://outlook.office.com/bookwithme/user/4bf5c8ca6e6d4b9fbbf0554a4f297027@cnas.org?anonymous&ismsaljsauthenabled&ep=plink) or follow me on [Twitter](https://x.com/james_s48).
+Feel free to put a time on my [calendar](https://outlook.office.com/bookwithme/user/4bf5c8ca6e6d4b9fbbf0554a4f297027%40cnas.org?anonymous&ismsaljsauthenabled) or follow me on [Twitter](https://x.com/james_s48).
 
 You can also leave me anonymous feedback [here](https://forms.gle/QV1MNQRXUizUrDyu8). 
