@@ -26,7 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hi, I'm James Sanders! 
+
+Hi, I'm James Sanders!
 
 I research AI policy at [CNAS](https://www.cnas.org/research/technology-and-national-security), with a focus on compute policy.
 
@@ -35,7 +36,6 @@ Previously, I worked for [Epoch AI](https://epoch.ai/) studying [AI Supercompute
 If you're interested in any of these things as well, or just think we'd have a good conversation, I'd be very happy to chat.
 The best way to reach me is at [james.martin.sanders@gmail.com](mailto:james.martin.sanders@gmail.com)
 
-
 Feel free to put a time on my [calendar](https://calendar.app.google/66uhja6GMcyk4aAG6) or follow me on [Twitter](https://x.com/james_s48).
 
-You can also leave me anonymous feedback [here](https://forms.gle/QV1MNQRXUizUrDyu8). 
+You can also leave me anonymous feedback [here](https://forms.gle/QV1MNQRXUizUrDyu8).
