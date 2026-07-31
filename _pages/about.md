@@ -36,6 +36,6 @@ Previously, I worked for [Epoch AI](https://epoch.ai/) studying [AI Supercompute
 If you're interested in any of these things as well, or just think we'd have a good conversation, I'd be very happy to chat.
 The best way to reach me is at [james.martin.sanders@gmail.com](mailto:james.martin.sanders@gmail.com)
 
-Feel free to put a time on my [calendar](https://calendar.app.google/66uhja6GMcyk4aAG6) or follow me on [Twitter](https://x.com/james_s48).
+Feel free to put a time on my [calendar](https://calendly.com/jamesms) or follow me on [Twitter](https://x.com/james_s48).
 
 You can also leave me anonymous feedback [here](https://forms.gle/QV1MNQRXUizUrDyu8).
