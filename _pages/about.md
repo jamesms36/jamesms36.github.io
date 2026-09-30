@@ -29,9 +29,9 @@ latest_posts:
 
 Hi, I'm James Sanders!
 
-I research AI policy at [CNAS](https://www.cnas.org/research/technology-and-national-security), with a focus on compute policy.
+I work on AI policy at the [Center for Technology and Statecraft](https://techstatecraft.org/).
 
-Previously, I worked for [Epoch AI](https://epoch.ai/) studying [AI Supercomputers](https://epoch.ai/blog/trends-in-ai-supercomputers) (ie, datacenters or GPU clusters), and was a quant trader. Before that, I majored in math with lots of philosophy and economics at Rice University.
+Previously, I worked on compute policy at [CNAS](https://www.cnas.org/research/technology-and-national-security), researched AI compute and capabilities at [Epoch AI](https://epoch.ai/), and was a quant trader. Before that, I majored in math at Rice University.
 
 If you're interested in any of these things as well, or just think we'd have a good conversation, I'd be very happy to chat.
 The best way to reach me is at [james.martin.sanders@gmail.com](mailto:james.martin.sanders@gmail.com)
