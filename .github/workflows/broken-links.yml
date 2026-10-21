@@ -38,16 +38,19 @@ on:
       - "!.github/workflows/prettier.yml"
       - "!lighthouse_results/**"
 
+permissions:
+  contents: read
+
 jobs:
   link-checker:
     runs-on: ubuntu-latest
     # only run on the main repo
     if: github.repository == 'alshedivat/al-folio'
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
 
       - name: Link Checker 🔗
-        uses: lycheeverse/lychee-action@v2.1.0
+        uses: lycheeverse/lychee-action@f81112d0d2814ded911bd23e3beaa9dda9093915 # v2.1.0
         with:
           fail: true
           # removed md files that include liquid tags
